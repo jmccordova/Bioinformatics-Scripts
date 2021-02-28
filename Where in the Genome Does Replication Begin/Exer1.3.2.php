@@ -1,7 +1,7 @@
 <?php 
 	/**
 	*	Returns index of where the pattern showed up
-	*	Use in commandline: php Exer1.2.1 <pattern> <filname/genome>
+	*	Use in commandline: php Exer1.3.2 <pattern> <filname/genome>
 	*
 	*/
 

@@ -8,7 +8,7 @@
 	if($argc != 3) {
 		echo "Expects only two parameters <filename/genome> and <pattern>.";
 		die();
-	} else if ($argc == 3 && (!is_string($argv[1]) || !is_file($argv[1]) || !is_string($argv[2]))) {
+	} else if ($argc == 3 && (!is_string($argv[1]) || !is_string($argv[2]))) {
 		echo "First parameter should be a file or genome string. Second parameter should be a string pattern.";
 		die();
 	}

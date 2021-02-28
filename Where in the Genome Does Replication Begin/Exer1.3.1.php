@@ -1,7 +1,7 @@
 <?php 
 	/**
-	*	Counts occurrence of a pattern in a genome
-	*	Use in commandline: php Exer1.2.1 <filname/genome> <pattern>
+	*	Get complement of a genome
+	*	Use in commandline: php Exer1.3.1 <filname/genome> <pattern>
 	*
 	*/
 

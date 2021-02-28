@@ -1,7 +1,7 @@
 <?php 
 	/**
 	*	Clump finding problem
-	*	Use in commandline: php Exer1.2.1 <filname/genome> <patternLength> <fixed string length L> <number of times t>
+	*	Use in commandline: php Exer1.4.1 <filname/genome> <patternLength> <fixed string length L> <number of times t>
 	*
 	*/
 
